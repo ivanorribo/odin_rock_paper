@@ -1,0 +1,1 @@
+Exercise from the Odin Project to create a game of Rock Paper Scissors on the console.
